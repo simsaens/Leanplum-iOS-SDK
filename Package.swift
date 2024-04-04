@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Leanplum",
-            url: "https://github.com/Leanplum/Leanplum-iOS-SDK/releases/download/6.3.0/Leanplum.xcframework.zip",
-            checksum: "ec3705808fd7c05ee3d05cdf042be40db3642a894a7cb03b6018f1d56d328632"
+            url: "https://github.com/simsaens/Leanplum-iOS-SDK/releases/download/fix%2F6.3.0/Leanplum.xcframework.zip",
+            checksum: "a7a7730c824c6acc48e053a0fe3635d50950b97cf310921afdc6084efdd52bc2"
         ),
         .target(
             name: "LeanplumLocation",
